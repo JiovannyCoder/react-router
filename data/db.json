@@ -1,0 +1,35 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Web Developer",
+      "salary": 40000,
+      "location": "London UK"
+    },
+    {
+      "id": 2,
+      "title": "UX Designer",
+      "salary": 35000,
+      "location": "United Stade USA"
+    },
+    {
+      "id": 3,
+      "title": "Marketing agent",
+      "salary": 50000,
+      "location": "Paris FR"
+    },
+    {
+      "id": 4,
+      "title": "Lead Developper",
+      "salary": 70000,
+      "location": "Madagascar Itaosy"
+    },
+    {
+      "id": 5,
+      "title": "Webmaster WordPress",
+      "salary": 50000,
+      "location": "Canada"
+    }
+  ]
+  
+}
